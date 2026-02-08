@@ -35,5 +35,6 @@ The admin dashboard provides a centralized interface for managing content, monit
 ## Features
 
 - **Admin Dashboard** — Real-time analytics, content performance tracking, and user management
-- **Content User Platform Analytics** — Multi-category content delivery across gaming, finance, and lifestyle verticals
+- **Content Platform** — Multi-category content delivery across gaming, finance, and lifestyle verticals
+- **User Analytics** — Real-time visitor tracking, engagement metrics, and traffic source breakdown
 - **Data Visualization** — Interactive charts and metrics for monitoring site engagement
