@@ -9,7 +9,7 @@ A content platform built with **Next.js** and deployed on **Vercel**, featuring 
 The admin dashboard provides a centralized interface for managing content, monitoring site performance, and tracking user engagement across multiple content verticals.
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/DashboardOverview.png)
+![Dashboard Overview](Screenshots/Dashboard_Overview.png)
 
 ### Analytics Dashboard
 ![Analytics Dashboard](Screenshots/Analytics_Dashboard.png)
